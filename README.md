@@ -18,10 +18,6 @@ My work focuses on understanding brain structure across generations using large-
 *   **Neuroscience Software:** SPM, CAT12, FSL, FreeSurfer.
 *   **Version Control & Collaboration:** Git, GitHub, GitHub Classroom.
 
-### Featured Projects
-*   **[Repository Name]:** [Brief 1-sentence description of what this project does].
-*   **[Repository Name]:** [Brief description of your role/contribution].
-
 ---
 
 ### Let's Connect
