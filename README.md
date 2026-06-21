@@ -21,7 +21,10 @@ My work focuses on understanding brain structure across generations using large-
 ---
 
 ### Let's Connect
-*   **LinkedIn:** [https://www.linkedin.com/in/gaia-negev-989aa4207/]
-*   **Email:** [gaianegev@gmail.com]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaia-negev-989aa4207/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaianegev@gmail.com)
+
+---
 
 *Pronouns: She/Her*
